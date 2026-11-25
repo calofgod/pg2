@@ -1,0 +1,6 @@
+streamlit
+yt-dlp
+google-genai
+weasyprint
+python-docx
+pypdf
